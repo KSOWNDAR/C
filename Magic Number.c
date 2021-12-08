@@ -5,6 +5,10 @@ Output : Magic Number
 Input : 250
 Output : Not a magic number
 
+MAGIC NUMBER : 
+    262 --> 2+6+2 = 10 --> 1+0 =1
+   Sum of digits to single digit is equal to 1 is called MAGIC NUMBER.
+
 #include <stdio.h>
 
 int main()
